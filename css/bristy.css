@@ -1,0 +1,34 @@
+
+.image {
+        width: 216px;
+            margin-left: 40%;
+}
+h1{
+	font-family: 'Oswald', sans-serif;
+	margin: 28px 513px;
+	color: blue;
+}
+h2{
+	color: blue;
+	font-family: 'Roboto', sans-serif;
+    margin: 0px 498px;
+}
+h3{
+	
+	font-family: 'Oswald', sans-serif;
+	    margin: 30px 505px;
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+      margin: 52px 282px;
+}
+.fa.fa-mobile {
+    font-size: 42px;
+}
+
+.fa.fa-envelope {
+    font-size: 35px;
+}
+
